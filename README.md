@@ -8,7 +8,8 @@
 -NOTE: Line 22 { br = new BufferedReader(new FileReader("/Users/Stephen/Documents/School/EE422C/EE422C Assignment
   WORKSPACE/bp3/task-2.json")); } must be edited to change the file location to where the .json file is located on 
   your personal machine. (this may have been avoided with a user input but due to time constraint (due to tests/service org)
-  I did not have time to test/implement this)
+  I did not have time to test/implement this) (overall quality would likely have been better if the previous week/weekend was
+  not so hectic)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
